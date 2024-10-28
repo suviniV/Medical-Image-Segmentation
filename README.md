@@ -1,1 +1,1 @@
-# Medical-Image-Segmentaition
+# Medical-Image-Segmentation
