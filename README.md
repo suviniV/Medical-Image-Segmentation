@@ -30,5 +30,6 @@ Enhancing tumor
 Dataset access: BraTS 2020 Challenge
 
 ### Models
-CNN Models Link: https://github.com/BRML/CNNbasedMedicalSegmentation
-Diffusion Models Link: https://github.com/SuperMedIntel/MedSegDiff
+(Old Technology) CNN Models Link: https://github.com/BRML/CNNbasedMedicalSegmentation
+
+(Latest Technology) Diffusion Models Link: https://github.com/SuperMedIntel/MedSegDiff
