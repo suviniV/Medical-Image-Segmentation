@@ -1,0 +1,63 @@
+Evaluation Metrics Summary
+==============================
+
+Number of slices evaluated: 10
+
+Average Metrics:
+--------------------
+Dice Score: 0.5898
+IoU Score: 0.0889
+HD95: 45.8213
+
+Per-slice Metrics:
+--------------------
+
+Slice 0:
+  Dice Score: 0.5820
+  IoU Score: 0.0696
+  HD95: 46.0977
+
+Slice 1:
+  Dice Score: 0.5967
+  IoU Score: 0.0817
+  HD95: 46.0977
+
+Slice 2:
+  Dice Score: 0.3660
+  IoU Score: 0.0580
+  HD95: 45.4533
+
+Slice 3:
+  Dice Score: 0.7126
+  IoU Score: 0.1243
+  HD95: 45.2769
+
+Slice 4:
+  Dice Score: 0.6367
+  IoU Score: 0.0938
+  HD95: 46.0109
+
+Slice 5:
+  Dice Score: 0.5874
+  IoU Score: 0.0830
+  HD95: 46.0109
+
+Slice 6:
+  Dice Score: 0.6084
+  IoU Score: 0.0917
+  HD95: 46.0109
+
+Slice 7:
+  Dice Score: 0.6860
+  IoU Score: 0.1113
+  HD95: 46.0109
+
+Slice 8:
+  Dice Score: 0.5574
+  IoU Score: 0.0908
+  HD95: 45.2769
+
+Slice 9:
+  Dice Score: 0.5652
+  IoU Score: 0.0848
+  HD95: 45.9674
