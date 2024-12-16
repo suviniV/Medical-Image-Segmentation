@@ -44,4 +44,21 @@ Architecture Used:
 Architecture Used:
 ![image](https://github.com/user-attachments/assets/232d76a3-27bc-4deb-aa79-14a024220dd0)
 
+###Contact
+For any queries, feel free to reach out:
+Name: Kavindya Senali
+GitHub profile:
+
+Name: Lakshani Nissanka
+GitHub profile:
+
+Name: Suvini Viduneth
+GitHub profile:
+
+Name: Vishmi Herath
+GitHub profile:
+
+Name: Sinali Maharambage
+GitHub profile: 
+
 
