@@ -44,7 +44,7 @@ Architecture Used:
 Architecture Used:
 ![image](https://github.com/user-attachments/assets/232d76a3-27bc-4deb-aa79-14a024220dd0)
 
-###Contact
+### Contact
 For any queries, feel free to reach out:
 Name: Kavindya Senali
 GitHub profile:
