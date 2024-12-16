@@ -18,7 +18,8 @@ The repository is organized as follows:
 ├── CNN/                # CNN model for medical image segmentation
 ├── MegSegDiff/         # Diffusion-based segmentation models
 
-### Dataset
+### Dataset (https://www.kaggle.com/datasets/andrewmvd/brain-tumor-segmentation-in-mri-brats-2015) 
+
 The BraTS 2020 Dataset is used for training and evaluation.
 
 Task: Brain Tumor Segmentation
