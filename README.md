@@ -2,7 +2,7 @@
 ### Overview
 This repository focuses on Medical Image Segmentation using two model architectures:
 
-> CNN (Convolutional Neural Networks)
+> CNN (Convolutional Neural Networks) and 
 > Diffusion Models (MegSegDiff)
 The models are trained and evaluated on the BraTS 2020 Dataset, which focuses on brain tumor segmentation.
 
