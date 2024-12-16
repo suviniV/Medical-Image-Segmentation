@@ -1,3 +1,10 @@
+Since some of the data folders were not able to upload to the repository because of the large file size,the drive link to the whole project file is attached here along with the dataset.
+
+https://drive.google.com/drive/folders/1--sAYe2SPgF3s-_npacZREWY-XDPes5j?usp=drive_link
+
+
+Below is the original Readme file of the project
+
 **Code for reproducing the results from [our paper on cnn-based medical image segmentation](https://arxiv.org/abs/1701.03056)**
 
 For any questions or issues, contact Baris via: bkayalibay@gmail.com.
