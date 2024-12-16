@@ -44,21 +44,12 @@ Architecture Used:
 Architecture Used:
 ![image](https://github.com/user-attachments/assets/232d76a3-27bc-4deb-aa79-14a024220dd0)
 
-### Contact
-For any queries, feel free to reach out:
-Name: Kavindya Senali
-GitHub profile:
+### Group Members
+Kavindya Senali
+Lakshani Nissanka
+Suvini Viduneth
+Vishmi Herath
+Sinali Maharambage
 
-Name: Lakshani Nissanka
-GitHub profile:
-
-Name: Suvini Viduneth
-GitHub profile:
-
-Name: Vishmi Herath
-GitHub profile:
-
-Name: Sinali Maharambage
-GitHub profile: 
 
 
